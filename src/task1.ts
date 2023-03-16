@@ -1,5 +1,5 @@
 "use strict";
-class Employee {
+class Employee1 {
      public empname: string;
      public empid: number | string;
      public empdesignation: string;
@@ -18,6 +18,6 @@ class Employee {
          console.log(str)
      }
  }
-     let empObj = new Employee("Srikanth", 690179, "Ui/Ux Designer", 60000, "AI");
+     let empObj = new Employee1("Srikanth", 690179, "Ui/Ux Designer", 60000, "AI");
     
    empObj.displayEmpDetails();
