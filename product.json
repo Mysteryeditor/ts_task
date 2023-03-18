@@ -1,0 +1,8 @@
+[
+    {
+        "ProductId":101,
+        "ProductName":"Bike",
+        "Price":100000,
+        "Quantity":5
+    }
+]

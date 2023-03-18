@@ -31,7 +31,7 @@ class Admin extends Employee {
         console.log(`Admin Details......\n Admin Id:${this.adminId}\n Admin Name:${this.adminName}`);
     }
 }
-let obj = new Admin("20BSC042", "UI design", 10, "Peter England", "Employee", "01AD100", "Srikanth");
+let obj = new Admin("20BSC042", "UI design", 10, "Allen Solly", "Employee", "01AD100", "Srikanth");
 obj.adminDetails();
 class ElectricityBill {
     constructor(rate, units) {
